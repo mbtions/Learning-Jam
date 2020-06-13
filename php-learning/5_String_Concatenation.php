@@ -1,5 +1,5 @@
 // String Concatenation in php happens using the . for instance  echo 'hello'.' world' => hello world
-// for variables we only need to include {$var_name}
+// for variables we only need to include {$var_name} within ' '
 
 <?php
 
